@@ -1,0 +1,9 @@
+{
+  "name": "binance-thresh-wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@kzen-networks/binance-thresh-wallet": "^0.2.3"
+  }
+}
